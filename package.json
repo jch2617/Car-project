@@ -1,0 +1,23 @@
+{
+  "name": "Assmnt2retake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "car.js",
+  "dependencies": {
+    "jasmine": "^3.5.0",
+    "jasmine-core": "^3.5.0",
+    "karma": "^4.4.1",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-firefox-launcher": "^1.2.0",
+    "karma-jasmine": "^2.0.1",
+    "karma-safari-launcher": "^1.0.0",
+    "karma-spec-reporter": "0.0.32"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
